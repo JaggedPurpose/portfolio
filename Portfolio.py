@@ -15,7 +15,7 @@ import csv
     # workon my-virtualenv
     # cd portfolio\ project
     # pip3 install -r requirements.txt
-# check up on 9/29
+# check up 10/03
 app = Flask(__name__)
 print(__name__)
 
