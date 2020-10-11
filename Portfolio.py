@@ -4,6 +4,7 @@ import csv
 # Terminal:
 # go to the desig path
 # git clone (copy&paste Git clone ssh or https)
+# git cd portfolio
 # git add .
 # git commit -m"message"
 # git push origin master
@@ -15,7 +16,7 @@ import csv
     # workon my-virtualenv
     # cd portfolio\ project
     # pip3 install -r requirements.txt
-# check up 10/03
+# check up on 10/11/2020
 app = Flask(__name__)
 print(__name__)
 
